@@ -26,14 +26,4 @@ First, you have to add the git repository to Eclipse. To do so, first make the g
 <p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/clone%20git%20repo%202.png" alt="clone git repo 2"></p>
 <p>To add your project, enter the name of the project (select the language, if you set one) and press search. Your project repository will show up. Select it and press <em>'Next'</em>.</p>
 <p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/clone%20git%20repo%203.png" alt="clone git repo 3"></p>
-<p>Now, select the local path on your computer where Eclipse will store the project. In my case, I'm OK with the default path, that is, within the <code>git/</code> subfolder in my home dir (i.e., <code>C:\Users\Fabio\git\socialcde-demo</code>).
-Please, make sure to check the box <em>'Import all existing Eclipse project after clone finishes'</em>. This is very important if the project on GitHub is not empty. Then, press <em>'Finish'</em>.</p>
-<p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/clone%20git%20repo%204.png" alt="clone git repo 4"></p>
-<p><strong>In the rest of this guide, I'm assuming that your GitHub project is empty and has just been created.</strong>
-In order to make it visible within the Eclipse IDE, complete these steps. From the toolbar, click on <em>'New &gt; Project...'</em>. In the example, I show the case of a Java project, but the steps are the same for every Eclipse project.</p>
-<p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/clone%20git%20repo%205.png" alt="clone git repo 5"></p>
-<p>Uncheck the box <em>'Use default location'</em>. Then, click on <em>'Browse'</em> and use the treeviewer to browse the folder where you checked out the GitHub repository (<code>C:\Users\Fabio\git\socialcde-demo</code> in this case).</p>
-<p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/clone%20git%20repo%206.png" alt="clone git repo 6"></p>
-<p>As a confirmation that everything worked fine in the <em>'Package Explorer'</em> view, you should see the project folder (<code>socialcde-demo</code>) displayed with a little orange cylinder, which indicates that the project is shared on GitHub.
-Finally, <strong>make sure that your projects contains a <code>src/</code> subfolders where to store your source file</strong>. It is a <strong>best practice for software developers and SocialCDE relies on that</strong>.</p>
-<p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/clone%20git%20repo%207.png" alt="clone git repo 7"></p>
+
