@@ -24,6 +24,6 @@ First, you have to add the git repository to Eclipse. To do so, first make the g
 <p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/clone%20git%20repo%201.png" alt="clone git repo 1"></p>
 <p>Make sure to select GitHub as repository source.</p>
 <p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/clone%20git%20repo%202.png" alt="clone git repo 2"></p>
-<p>To add your project, enter the name of the project (select the language, if you set one) and press search. Your project repository will show up. Select it and press <em>'Next'</em>.</p>
-<p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/clone%20git%20repo%203.png" alt="clone git repo 3"></p>
+<p>To add your project, select 'clone uri' , put this url  and press <em>'Next'</em>.</p>
+
 
