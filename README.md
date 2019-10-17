@@ -17,13 +17,13 @@ Current app have mysql Database, and its functionality of Login, List, insert an
 
 How to import a GitHub project into Eclipse
 
- <p>Assuming you have created a project in GitHub, these are the steps to import it into Eclipse.
-First, you have to add the git repository to Eclipse. To do so, first make the git repository view visible in Eclipse from the menu <em>'Window &gt; Show views &gt; Other &gt; Git &gt; Git Repositories'</em>.</p>
+ <p>These are the steps to import it into Eclipse.
+First, you have to add the git repository to Eclipse (install from Marktplace). First make the git repository view visible in Eclipse from the menu <em>'Window &gt; Show views &gt; Other &gt; Git &gt; Git Repositories'</em>.</p>
 <p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/add%20git%20repo%201.png" alt="add git repo 1"></p>
 <p>Eclipse will show the view somewhere. Click on <em>'Clone a Git repository'</em> to begin the process.</p>
 <p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/clone%20git%20repo%201.png" alt="clone git repo 1"></p>
-<p>Make sure to select GitHub as repository source.</p>
+<p>Make sure to select GitHub as 'clone uri'.</p>
 <p><img src="https://github.com/collab-uniba/socialcde4eclipse/raw/master/wikiImage/clone%20git%20repo%202.png" alt="clone git repo 2"></p>
-<p>To add your project, select 'clone uri' , put this url https://github.com/jaab/jsp-servlet-jdbc-mysql-crud-login-bootstrap-jquery.git and press <em>'Next'</em>.</p>
+<p>To add this project,put url https://github.com/jaab/jsp-servlet-jdbc-mysql-crud-login-bootstrap-jquery.git and press <em>'Next'</em>.</p>
 
 
